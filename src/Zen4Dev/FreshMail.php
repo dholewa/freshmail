@@ -6,6 +6,6 @@ define ( 'FM_API_SECRET', env('FM_API_SECRET') );
 
 require_once __DIR__ .'/../REST-API/class.rest.php';
 
-class FreshMail extends FmRestApi {
+class FreshMail extends \FmRestApi {
 
 }
