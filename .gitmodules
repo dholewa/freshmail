@@ -1,3 +1,0 @@
-[submodule "src/REST-API"]
-	path = src/REST-API
-	url = https://github.com/FreshMail/REST-API.git
